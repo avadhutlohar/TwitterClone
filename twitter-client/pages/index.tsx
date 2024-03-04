@@ -55,7 +55,32 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="col-span-5  border-r-[1px] border-l-[1px] border border-gray-600 ">
+        <div className="col-span-5  border-r-[1px] border-l-[1px] border border-gray-600 h-screen overflow-scroll ">
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
+          <FeedCard />
           <FeedCard />
         </div>
         <div className="col-span-2"></div>
